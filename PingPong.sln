@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping", "Ping\Ping.csproj", "{5B6BC68C-766F-4515-9A2C-BA35746C1FF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pong", "Pong\Pong.csproj", "{61336EF1-7A77-498E-BCEB-93EE4301FCA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Messages", "Messages\Messages.csproj", "{2B2E93ED-34DC-406D-AF77-166604327DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B6BC68C-766F-4515-9A2C-BA35746C1FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6BC68C-766F-4515-9A2C-BA35746C1FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6BC68C-766F-4515-9A2C-BA35746C1FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6BC68C-766F-4515-9A2C-BA35746C1FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61336EF1-7A77-498E-BCEB-93EE4301FCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61336EF1-7A77-498E-BCEB-93EE4301FCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61336EF1-7A77-498E-BCEB-93EE4301FCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61336EF1-7A77-498E-BCEB-93EE4301FCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B2E93ED-34DC-406D-AF77-166604327DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2E93ED-34DC-406D-AF77-166604327DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2E93ED-34DC-406D-AF77-166604327DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2E93ED-34DC-406D-AF77-166604327DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
